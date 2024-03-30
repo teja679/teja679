@@ -1,8 +1,8 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Srimanthula Yerni Teja
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yerni Teja Srimanthula
 ## About Me 🔰: <br>A passionate front-end developer from India. I describe myself as a passionate developer who loves coding and the web platform ❤️
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="soubhik-biswas96" data-version="v1"><a class="badge-base__link LI-simple-link" href="www.linkedin.com/in/s-yerni-teja-5a7546202">SRIMANTHULA YERNI TEJA 🟦</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="soubhik-biswas96" data-version="v1"><a class="badge-base__link LI-simple-link" href="www.linkedin.com/in/s-yerni-teja-5a7546202">YERNI TEJA SRIMANTHULA🟦</a></div>
               
               
 
